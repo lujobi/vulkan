@@ -1,0 +1,8 @@
+/home/lujobi/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5153.40/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lujobi/Documents/coding/graphics/triangle
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using X11 for window creation
+Path to GLFW/home/lujobi/Documents/coding/sdk/glfw
+Path to GLFW_LIB
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lujobi/Documents/coding/graphics/triangle/cmake-build-test

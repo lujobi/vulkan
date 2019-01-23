@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/triangle.dir/main.cpp.o  -o triangle -Wl,-rpath,/home/lujobi/Documents/coding/sdk/1.1.92.1/x86_64/lib -lglfw3 /home/lujobi/Documents/coding/sdk/1.1.92.1/x86_64/lib/libvulkan.so 
