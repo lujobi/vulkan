@@ -3,9 +3,9 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="triangle" targetName="cursor" />
-      <config projectName="triangle" targetName="gamma" />
       <config projectName="triangle" targetName="glfw" />
       <config projectName="triangle" targetName="gears" />
+      <config projectName="triangle" targetName="empty" />
       <config projectName="triangle" targetName="clipboard" />
       <config projectName="triangle" targetName="boing" />
       <config projectName="triangle" targetName="wave" />
@@ -24,8 +24,8 @@
       <config projectName="triangle" targetName="tearing" />
       <config projectName="triangle" targetName="reopen" />
       <config projectName="triangle" targetName="inputlag" />
-      <config projectName="triangle" targetName="empty" />
       <config projectName="triangle" targetName="threads" />
+      <config projectName="triangle" targetName="gamma" />
       <config projectName="triangle" targetName="events" />
       <config projectName="triangle" targetName="particles" />
       <config projectName="triangle" targetName="joysticks" />
@@ -59,7 +59,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ebae3d-0924-419d-a73e-57ec269c60f1" name="Default Changelist" comment="" />
+    <list default="true" id="32ebae3d-0924-419d-a73e-57ec269c60f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/shader.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/shader.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-test/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
@@ -75,10 +80,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="9724">
               <caret line="442" selection-start-line="442" selection-end-line="442" />
               <folding>
                 <element signature="e#113#136#0" expanded="true" />
@@ -112,6 +117,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shaders/shader.vert">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shaders/shader.frag">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -120,6 +143,9 @@
       <find>extensions</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,6 +153,8 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/shaders/shader.frag" />
+        <option value="$PROJECT_DIR$/shaders/shader.vert" />
       </list>
     </option>
   </component>
@@ -136,6 +164,7 @@
     <option name="width" value="1013" />
     <option name="height" value="1036" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,6 +182,12 @@
               <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
               <item name="triangle" type="47feb1d3:ProjectViewModuleNode" />
               <item name="triangle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="triangle" type="462c0819:PsiDirectoryNode" />
+              <item name="shaders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,13 +431,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="40" width="1013" height="1036" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21376434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21793535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32964602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -468,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="9724">
           <caret line="442" selection-start-line="442" selection-end-line="442" />
           <folding>
             <element signature="e#113#136#0" expanded="true" />
@@ -498,6 +534,20 @@
             <element signature="e#12835#14741#0" />
             <element signature="e#14957#15182#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shaders/shader.frag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shaders/shader.vert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
