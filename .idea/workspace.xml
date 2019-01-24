@@ -61,6 +61,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32ebae3d-0924-419d-a73e-57ec269c60f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle" beforeDir="false" afterPath="$PROJECT_DIR$/triangle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-test/" />
@@ -80,11 +81,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="500" column="54" lean-forward="true" selection-start-line="500" selection-start-column="54" selection-end-line="500" selection-end-column="54" />
+            <state relative-caret-position="246">
+              <caret line="763" lean-forward="true" selection-start-line="763" selection-end-line="763" />
               <folding>
                 <element signature="e#113#136#0" expanded="true" />
+                <element signature="e#668#1270#0" />
+                <element signature="e#1272#1766#0" />
+                <element signature="e#1768#1987#1" />
+                <element signature="e#1990#2160#1" />
+                <element signature="e#2891#3155#0" />
+                <element signature="e#3008#3265#0" />
                 <element signature="e#3271#3383#0" />
+                <element signature="e#3389#3927#0" />
                 <element signature="e#3993#4458#0" />
                 <element signature="e#4464#5187#0" />
                 <element signature="e#5193#5845#0" />
@@ -100,7 +108,11 @@
                 <element signature="e#12004#12206#0" />
                 <element signature="e#12212#14733#0" />
                 <element signature="e#14739#15965#0" />
+                <element signature="e#17083#19382#0" />
                 <element signature="e#23411#23450#0" />
+                <element signature="e#26279#26320#0" />
+                <element signature="e#27412#27452#0" />
+                <element signature="e#28064#28159#0" />
                 <element signature="e#16079#16477#0" />
                 <element signature="e#16483#18384#0" />
                 <element signature="e#18390#19280#0" />
@@ -156,7 +168,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="40" />
-    <option name="width" value="1013" />
+    <option name="width" value="1912" />
     <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -425,15 +437,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1021" y="40" width="895" height="516" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="40" width="1912" height="1036" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21793535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11248654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32964602" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32964602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,11 +524,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="500" column="54" lean-forward="true" selection-start-line="500" selection-start-column="54" selection-end-line="500" selection-end-column="54" />
+        <state relative-caret-position="246">
+          <caret line="763" lean-forward="true" selection-start-line="763" selection-end-line="763" />
           <folding>
             <element signature="e#113#136#0" expanded="true" />
+            <element signature="e#668#1270#0" />
+            <element signature="e#1272#1766#0" />
+            <element signature="e#1768#1987#1" />
+            <element signature="e#1990#2160#1" />
+            <element signature="e#2891#3155#0" />
+            <element signature="e#3008#3265#0" />
             <element signature="e#3271#3383#0" />
+            <element signature="e#3389#3927#0" />
             <element signature="e#3993#4458#0" />
             <element signature="e#4464#5187#0" />
             <element signature="e#5193#5845#0" />
@@ -533,7 +551,11 @@
             <element signature="e#12004#12206#0" />
             <element signature="e#12212#14733#0" />
             <element signature="e#14739#15965#0" />
+            <element signature="e#17083#19382#0" />
             <element signature="e#23411#23450#0" />
+            <element signature="e#26279#26320#0" />
+            <element signature="e#27412#27452#0" />
+            <element signature="e#28064#28159#0" />
             <element signature="e#16079#16477#0" />
             <element signature="e#16483#18384#0" />
             <element signature="e#18390#19280#0" />
