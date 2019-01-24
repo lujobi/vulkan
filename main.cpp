@@ -498,7 +498,7 @@ private:
         VkPipelineShaderStageCreateInfo fragShaderStageInfo = {};
         fragShaderStageInfo.sType = VK_STRUCTURE_TYPE_PIPELINE_SHADER_STAGE_CREATE_INFO;
         fragShaderStageInfo.stage = VK_SHADER_STAGE_FRAGMENT_BIT;
-        fragShaderStageInfo.module = vertShaderModule;
+        fragShaderStageInfo.module = fragShaderModule;
         fragShaderStageInfo.pName = "main";
         fragShaderStageInfo.pSpecializationInfo = nullptr;
 

@@ -61,7 +61,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32ebae3d-0924-419d-a73e-57ec269c60f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triangle" beforeDir="false" afterPath="$PROJECT_DIR$/triangle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-test/" />
@@ -81,12 +80,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="620" column="8" selection-start-line="620" selection-start-column="8" selection-end-line="620" selection-end-column="8" />
+            <state relative-caret-position="363">
+              <caret line="500" column="54" lean-forward="true" selection-start-line="500" selection-start-column="54" selection-end-line="500" selection-end-column="54" />
               <folding>
                 <element signature="e#113#136#0" expanded="true" />
                 <element signature="e#3271#3383#0" />
-                <element signature="e#3389#3927#0" />
                 <element signature="e#3993#4458#0" />
                 <element signature="e#4464#5187#0" />
                 <element signature="e#5193#5845#0" />
@@ -136,6 +134,7 @@
     <findStrings>
       <find>MAKE</find>
       <find>extensions</find>
+      <find>VK_SHADER_STAGE_VERTEX_BIT</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -426,7 +425,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="40" width="1013" height="1036" extended-state="0" />
+    <frame x="1021" y="40" width="895" height="516" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21793535" />
@@ -514,12 +513,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="620" column="8" selection-start-line="620" selection-start-column="8" selection-end-line="620" selection-end-column="8" />
+        <state relative-caret-position="363">
+          <caret line="500" column="54" lean-forward="true" selection-start-line="500" selection-start-column="54" selection-end-line="500" selection-end-column="54" />
           <folding>
             <element signature="e#113#136#0" expanded="true" />
             <element signature="e#3271#3383#0" />
-            <element signature="e#3389#3927#0" />
             <element signature="e#3993#4458#0" />
             <element signature="e#4464#5187#0" />
             <element signature="e#5193#5845#0" />
