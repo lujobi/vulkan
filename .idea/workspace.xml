@@ -60,6 +60,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32ebae3d-0924-419d-a73e-57ec269c60f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/triangle" beforeDir="false" afterPath="$PROJECT_DIR$/triangle" afterDir="false" />
@@ -77,43 +78,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="800" column="42" selection-start-line="800" selection-start-column="42" selection-end-line="800" selection-end-column="42" />
+            <state relative-caret-position="263">
+              <caret line="808" column="33" selection-start-line="808" selection-start-column="33" selection-end-line="808" selection-end-column="33" />
               <folding>
-                <element signature="e#113#136#0" expanded="true" />
-                <element signature="e#3024#3255#0" />
-                <element signature="e#3261#3637#0" />
-                <element signature="e#3643#3780#0" />
-                <element signature="e#3786#4702#0" />
-                <element signature="e#4777#5242#0" />
-                <element signature="e#5248#5971#0" />
-                <element signature="e#5977#6629#0" />
-                <element signature="e#6635#7661#0" />
-                <element signature="e#7667#8571#0" />
-                <element signature="e#8577#9169#0" />
-                <element signature="e#9175#9714#0" />
-                <element signature="e#9720#10339#0" />
-                <element signature="e#10409#10860#0" />
-                <element signature="e#10866#11422#0" />
-                <element signature="e#11493#12850#0" />
-                <element signature="e#12856#13866#0" />
-                <element signature="e#13872#14074#0" />
-                <element signature="e#14080#16601#0" />
-                <element signature="e#16607#17833#0" />
-                <element signature="e#17839#25125#0" />
-                <element signature="e#25131#26623#0" />
-                <element signature="e#26629#27565#0" />
-                <element signature="e#27571#28083#0" />
-                <element signature="e#28089#30195#0" />
-                <element signature="e#30373#30771#0" />
-                <element signature="e#30777#32678#0" />
-                <element signature="e#32684#33574#0" />
-                <element signature="e#33580#35486#0" />
+                <element signature="e#3477#3882#0" />
+                <element signature="e#3888#4060#0" />
+                <element signature="e#4066#5272#0" />
+                <element signature="e#5347#5812#0" />
+                <element signature="e#5818#6541#0" />
+                <element signature="e#6547#7199#0" />
+                <element signature="e#7205#8231#0" />
+                <element signature="e#8237#9141#0" />
+                <element signature="e#9147#9739#0" />
+                <element signature="e#9745#10284#0" />
+                <element signature="e#10290#10909#0" />
+                <element signature="e#10979#11430#0" />
+                <element signature="e#11436#11992#0" />
+                <element signature="e#12063#13420#0" />
+                <element signature="e#13426#14434#0" />
+                <element signature="e#14440#14642#0" />
+                <element signature="e#14648#17169#0" />
+                <element signature="e#17175#18401#0" />
+                <element signature="e#18407#25693#0" />
+                <element signature="e#25699#27768#0" />
+                <element signature="e#27774#28710#0" />
+                <element signature="e#28716#29228#0" />
+                <element signature="e#29234#31340#0" />
+                <element signature="e#31346#32348#0" />
+                <element signature="e#31952#32655#0" />
+                <element signature="e#32419#34291#0" />
+                <element signature="e#34362#34760#0" />
+                <element signature="e#34766#36667#0" />
+                <element signature="e#36673#37563#0" />
+                <element signature="e#37569#39475#0" />
               </folding>
             </state>
           </provider>
@@ -123,7 +139,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -144,6 +160,9 @@
       <find>MAKE</find>
       <find>extensions</find>
       <find>VK_SHADER_STAGE_VERTEX_BIT</find>
+      <find>callback</find>
+      <find>vkcreateswapchain</find>
+      <find>vkAcq</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,11 +180,17 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="40" />
-    <option name="width" value="954" />
+    <option name="width" value="1170" />
     <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,7 +226,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.CLion2018.3/system/plugins" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$USER_HOME$/.CLion2018.3/system/plugins" />
+    <property name="node.js.selected.package.standard" value="$USER_HOME$/.CLion2018.3/system/plugins" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -434,10 +467,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="962" y="40" width="954" height="516" extended-state="0" />
+    <frame x="1178" y="40" width="738" height="516" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2522222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20698924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -449,7 +482,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32747254" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964602" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32857144" />
@@ -459,6 +492,9 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="make" order="4" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/local/include/GLFW/glfw3.h">
@@ -492,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shaders/shader.frag">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -513,48 +542,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="808" column="33" selection-start-line="808" selection-start-column="33" selection-end-line="808" selection-end-column="33" />
+          <folding>
+            <element signature="e#3477#3882#0" />
+            <element signature="e#3888#4060#0" />
+            <element signature="e#4066#5272#0" />
+            <element signature="e#5347#5812#0" />
+            <element signature="e#5818#6541#0" />
+            <element signature="e#6547#7199#0" />
+            <element signature="e#7205#8231#0" />
+            <element signature="e#8237#9141#0" />
+            <element signature="e#9147#9739#0" />
+            <element signature="e#9745#10284#0" />
+            <element signature="e#10290#10909#0" />
+            <element signature="e#10979#11430#0" />
+            <element signature="e#11436#11992#0" />
+            <element signature="e#12063#13420#0" />
+            <element signature="e#13426#14434#0" />
+            <element signature="e#14440#14642#0" />
+            <element signature="e#14648#17169#0" />
+            <element signature="e#17175#18401#0" />
+            <element signature="e#18407#25693#0" />
+            <element signature="e#25699#27768#0" />
+            <element signature="e#27774#28710#0" />
+            <element signature="e#28716#29228#0" />
+            <element signature="e#29234#31340#0" />
+            <element signature="e#31346#32348#0" />
+            <element signature="e#31952#32655#0" />
+            <element signature="e#32419#34291#0" />
+            <element signature="e#34362#34760#0" />
+            <element signature="e#34766#36667#0" />
+            <element signature="e#36673#37563#0" />
+            <element signature="e#37569#39475#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="800" column="42" selection-start-line="800" selection-start-column="42" selection-end-line="800" selection-end-column="42" />
-          <folding>
-            <element signature="e#113#136#0" expanded="true" />
-            <element signature="e#3024#3255#0" />
-            <element signature="e#3261#3637#0" />
-            <element signature="e#3643#3780#0" />
-            <element signature="e#3786#4702#0" />
-            <element signature="e#4777#5242#0" />
-            <element signature="e#5248#5971#0" />
-            <element signature="e#5977#6629#0" />
-            <element signature="e#6635#7661#0" />
-            <element signature="e#7667#8571#0" />
-            <element signature="e#8577#9169#0" />
-            <element signature="e#9175#9714#0" />
-            <element signature="e#9720#10339#0" />
-            <element signature="e#10409#10860#0" />
-            <element signature="e#10866#11422#0" />
-            <element signature="e#11493#12850#0" />
-            <element signature="e#12856#13866#0" />
-            <element signature="e#13872#14074#0" />
-            <element signature="e#14080#16601#0" />
-            <element signature="e#16607#17833#0" />
-            <element signature="e#17839#25125#0" />
-            <element signature="e#25131#26623#0" />
-            <element signature="e#26629#27565#0" />
-            <element signature="e#27571#28083#0" />
-            <element signature="e#28089#30195#0" />
-            <element signature="e#30373#30771#0" />
-            <element signature="e#30777#32678#0" />
-            <element signature="e#32684#33574#0" />
-            <element signature="e#33580#35486#0" />
-          </folding>
         </state>
       </provider>
     </entry>
