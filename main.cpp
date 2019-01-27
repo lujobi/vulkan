@@ -222,9 +222,20 @@ private:
     }
 
     void mainLoop() {
+        auto startTime = std::chrono::high_resolution_clock::now();
+        int frameCount = 0;
         while (!glfwWindowShouldClose(window)) {
+            auto currentTime = std::chrono::high_resolution_clock::now();
+            float time = std::chrono::duration<float, std::chrono::seconds::period>(currentTime - startTime).count();
             glfwPollEvents();
             drawFrame();
+            ++frameCount;
+
+            if(time >= 1.0f){
+                std::cout << frameCount << " FPS" << std::endl;
+                startTime = currentTime;
+                frameCount = 0;
+            }
         }
 
         vkDeviceWaitIdle(device);
